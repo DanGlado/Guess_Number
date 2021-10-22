@@ -2,9 +2,15 @@
     <string name="app_name">Guess Number!</string>
     <string name="behind">Недолёт!</string>
     <string name="ahead">Перелёт!</string>
-    <string name="hit">В точку!</string>
+    <string name="hit">В точку! Победа! Загадано новое число</string>
     <string name="input_value">Ввести значение</string>
     <string name="play_more">Сыграть ещё</string>
     <string name="try_to_guess">Попробуйте угадать число (1 &#8211; 100) </string>
-    <string name="error">Неверный ввод!</string>
+    <string name="error">Неверный ввод! Повторите попытку</string>
+    <string name="out">Выход за диапазон значений!</string>
+    <string name="level">Выберите уровень!</string>
+    <string name="level1">Выбран 1 уровень!</string>
+    <string name="level2">Выбран 2 уровень!</string>
+    <string name="level3">Выбран 3 уровень!</string>
+    <string name="go_out">Выход</string>
 </resources>
